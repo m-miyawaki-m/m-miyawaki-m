@@ -5,7 +5,7 @@
 [m-miyawaki-m.github.io](https://m-miyawaki-m.github.io/)
 
 ### project
-https://github.com/users/m-miyawaki-m/projects/7/settings
+https://github.com/users/m-miyawaki-m/projects/7
 <!--
 **m-miyawaki-m/m-miyawaki-m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
