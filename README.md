@@ -2,7 +2,7 @@
 
 
 ### portfolio
-[[https://github.com/m-miyawaki-m/single-page-cv])]([https://github.com/m-miyawaki-m/single-page-cv)
+[https://github.com/m-miyawaki-m/single-page-cv]([https://github.com/m-miyawaki-m/single-page-cv)
 
 ### project
 https://github.com/users/m-miyawaki-m/projects/7
